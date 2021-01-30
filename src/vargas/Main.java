@@ -8,5 +8,6 @@ public class Main {
         message = "Hello my name is Diego Vargas.";
         message2 = "This is a new message for the Stretch Challenge.";
         System.out.println(message);
+        System.out.println("Hello Diego, my name is Victor");
     }
 }
